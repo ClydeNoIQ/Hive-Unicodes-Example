@@ -2,6 +2,9 @@
 
 A resource pack containing The Hive's unicodes and extra stuff.
 
+> [!WARNING]
+> This is just an example resource pack containing some unicodes
+
 > [!CAUTION]
 > It is highly recommended that you remake Hive's unicode parts as it is prohibited to use Hive's or any servers assets
 
