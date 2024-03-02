@@ -1,6 +1,9 @@
 # **`Unicode-Bedrock-New + The Hive`**
 
-A resource pack containing The Hive's unicodes and extra stuff
+A resource pack containing The Hive's unicodes and extra stuff.
+
+> [!CAUTION]
+> It is highly recommended that you remake them as it is prohibited to use Hive's or any servers assets
 
 > - <h2>How to install Unicode on mobile</h2>
 [![](http://img.youtube.com/vi/GHy_qYswfz0/0.jpg)](https://youtu.be/GHy_qYswfz0)
